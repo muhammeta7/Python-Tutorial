@@ -39,10 +39,14 @@ This repo is to document my knowledge and practice of **Python**. Below is a lis
 3. **Get to Coding!**
 
 ### <a id="basics"></a>The Fundamentals
-*  <details>
-        <summary>Hello World Program</summary>
-        <p>Hello World</p>
-    </details>
+*  Basics
+    1. Hello World and a few other combinations for print function.
+        * [Hello World](https://github.com/muhammeta7/Python-Tutorial/blob/main/CourseMaterial/Fundamentals/HelloWorld/helloworld.py) 
+    2. Strings      
+
+        
+        
+        
 
 ###### [TOC](#toc)
 
