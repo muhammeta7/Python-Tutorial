@@ -14,12 +14,12 @@ The name originates from the cult comedy show Monty Python's Flying Circus, and 
 
 ### <a id="why"></a>Why Learn Python?
 1. Easy to Use 
- * Focus on programming concepts versus learning syntax.
- * User friendly documentation and installation.
- * Developers contribute religiously to community by creating **Python** libraries.
- * Syntax 
+  * Focus on programming concepts versus learning syntax.
+  * Indentation allows for coder to not have to worry about semi-colon
+  * User friendly documentation and installation.
+  * Developers contribute religiously to community by creating **Python** libraries.
 2. Powerful
-* Google, Dropbox, Spotify all use Python.
+ * Google, Dropbox, Spotify all use Python.
 * Allows for cross-platform compatibility.
 * Suited for rapid delivery and maintenance. 
 3. Versatile
