@@ -5,35 +5,46 @@ This repo is to document my knowledge and practice of **Python**. Below is a lis
    * [What is Python](#what)
    * [Why Learn Python](#why)
    * [Getting Started](#start)
+   * [The Fundamentals](#basics)
    
 ### <a id="what"></a>What is Python?
-**Python** is an object-oriented, interpreted language that runs on *Windows* , *Mac OS X*, *Linux*, etc.<br />
-
-The name originates from the cult comedy show Monty Python's Flying Circus, and you'll find references to sketches in the documentation.<br />
-
+   * Interpreted language that runs on *Windows* , *Mac OS X*, *Linux*, etc.
+   * Supports object-oriented, procedural, and functional programming. 
+   * Supports basic data types such as strings and numbers and complex data types like lists and dictionaries.
+   * Strongly typed but is also dynamically typed, meaning you are freed from worrying about variable declarations.
+   
+*Name originates from the cult comedy show Monty Python's Flying Circus, and you'll find references to sketches in the documentation.<br />*
 ###### [TOC](#toc)
 
 ### <a id="why"></a>Why Learn Python?
-* Easy to Use 
-    * Focus on programming concepts versus learning syntax.
-    * User friendly documentation and installation.
-    * Developers contribute religiously to community by creating **Python** libraries.
+ * Easy to Use 
+   * Focus on programming concepts versus learning syntax.
+   * User friendly documentation and installation.
+   * Developers contribute religiously to community by creating **Python** libraries.
 * Powerful
-    * Google, Dropbox, Spotify all use Python.
-    * Allows for cross-platform compatibility.
-    * Suited for rapid delivery and maintenance. 
-    * Python devs tend to have higher salaries than other languages.
+   * Google, Dropbox, Spotify all use Python.
+   * Allows for cross-platform compatibility.
+   * Suited for rapid delivery and maintenance. 
+   * Python devs tend to have higher salaries than other languages.
 * Versatile
-    * Client and server side capabilities.
-    * Used for machine learning, game engines, artificial intelligence and data science.
+   * Client and server side capabilities.
+   * Used for machine learning, game engines, artificial intelligence and data science.
     
- ###### [TOC](#toc)
+###### [TOC](#toc)
 ### <a id="start"></a>Getting Started
 1. Download python based off your operating system and system type.
 2. Select and download an IDE of your choosing and setup dev environment.
     * ###### [Downloads](#downloads)  
     * ###### [TOC](#toc)
-3. 
+3. **Get to Coding!**
+
+### <a id="basics"></a>The Fundamentals
+*  <details>
+        <summary>Hello World Program</summary>
+        <p>Hello World</p>
+    </details>
+
+###### [TOC](#toc)
 
 #### Relevant Resources
    * [Python Landing Page](https://www.python.org/)
