@@ -30,10 +30,15 @@ The name originates from the cult comedy show Monty Python's Flying Circus, and 
  
 ### Getting Started
 
+###### [TOC](#toc)
+
 ### Installation
 
+###### [TOC](#toc)
 
 #### Relevant Resources
+
+###### [TOC](#toc)
 
 ### Authors
 **Muhammet Aydin** [Muhammet Aydin](https://github.com/muhammeta7)
