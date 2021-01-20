@@ -33,6 +33,7 @@ The name originates from the cult comedy show Monty Python's Flying Circus, and 
 2. Select and download an IDE of your choosing and setup dev environment.
     * ###### [Downloads](#downloads)  
     * ###### [TOC](#toc)
+3. 
 
 #### Relevant Resources
    * [Python Landing Page](https://www.python.org/)
