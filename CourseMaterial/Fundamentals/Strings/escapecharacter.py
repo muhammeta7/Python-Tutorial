@@ -28,4 +28,8 @@ print(splitString2)
 splitString3 = """This string has been \
 split into \
 three lines"""
-print(splitString2)
+print(splitString3)
+
+# Additional info on escape characters
+print(r"C:\Users\tom\notes.py")  # r in front turns string into regular expression
+print("C:\\Users\\tom\\notes.py")  # more preferable

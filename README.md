@@ -14,42 +14,46 @@ This repo is to document my knowledge and practice of **Python**. Below is a lis
    * Strongly typed but is also dynamically typed, meaning you are freed from worrying about variable declarations.
    
 *Name originates from the cult comedy show Monty Python's Flying Circus, and you'll find references to sketches in the documentation.<br />*
+
 ###### [TOC](#toc)
 
 ### <a id="why"></a>Why Learn Python?
- * Easy to Use 
+
+##### Easy to Use 
    * Focus on programming concepts versus learning syntax.
    * User friendly documentation and installation.
    * Developers contribute religiously to community by creating **Python** libraries.
-* Powerful
+##### Powerful
    * Google, Dropbox, Spotify all use Python.
    * Allows for cross-platform compatibility.
    * Suited for rapid delivery and maintenance. 
-   * Python devs tend to have higher salaries than other languages.
-* Versatile
+   * Python developers tend to have higher salaries than other languages.
+##### Versatile
    * Client and server side capabilities.
    * Used for machine learning, game engines, artificial intelligence and data science.
     
 ###### [TOC](#toc)
+
 ### <a id="start"></a>Getting Started
 1. Download python based off your operating system and system type.
 2. Select and download an IDE of your choosing and setup dev environment.
-    * ###### [Downloads](#downloads)  
-    * ###### [TOC](#toc)
+    ###### [Downloads](#downloads)  
+    ###### [TOC](#toc)
 3. **Get to Coding!**
 
 ### <a id="basics"></a>The Fundamentals
-*  Basics
-    1. Hello World
-        * [Hello World](https://github.com/muhammeta7/Python-Tutorial/blob/main/CourseMaterial/Fundamentals/HelloWorld/helloworld.py) 
-    2. Data Types
-    
-    Strings, Concatenation, User Input      
-        * Strings
-        
-        
-        
 
+##### Hello World
+##### [First Python Program](https://github.com/muhammeta7/Python-Tutorial/blob/main/CourseMaterial/Fundamentals/HelloWorld/helloworld.py) 
+
+###### [TOC](#toc)
+##### Strings
+  * Strings can be surround by single or double quotes.
+  * Start and end with exact same type of quotation.
+  * You can us concatenation to add multiple strings together.
+  * Storing strings into variables is a good way to reference them for later use.
+  * Assigning a variable to the input function allows you to store user input.
+            
 ###### [TOC](#toc)
 
 #### Relevant Resources
