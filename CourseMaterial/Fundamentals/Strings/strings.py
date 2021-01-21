@@ -14,3 +14,4 @@ print(greeting + ' ' + name) # Hello Moe
 # Example with input from the user by assigning the variable to input function, and then printing after.
 userInput = input("Please enter your name ")
 print(greeting + ' ' + userInput) # Hello [Word typed in from user]
+

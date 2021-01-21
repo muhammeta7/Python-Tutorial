@@ -40,10 +40,12 @@ This repo is to document my knowledge and practice of **Python**. Below is a lis
 
 ### <a id="basics"></a>The Fundamentals
 *  Basics
-    1. Hello World and a few other combinations for print function.
+    1. Hello World
         * [Hello World](https://github.com/muhammeta7/Python-Tutorial/blob/main/CourseMaterial/Fundamentals/HelloWorld/helloworld.py) 
-    2. Strings      
-        * 
+    2. Data Types
+    
+    Strings, Concatenation, User Input      
+        * Strings
         
         
         
