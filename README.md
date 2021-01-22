@@ -16,13 +16,13 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    * Community is enthusiastic to share wealth of knowledge with fellow developers.
    
   #### Keys to Success
-  * Get ready to a master at Google. No need to memorize everything.   
-  * Accept and embrace failure quickly. Avoid trying to be a perfectionist.
-  * Troubleshooting and debugging mistakes thoroughly to find a solution is important for learning.
-  * Type the code out until you feel comfortable enough to copy paste. Practice makes perfect.
-  * You are essentially learning how to learn on the first go around.  
-  * Be very specific in your questions and always research before asking.
-  * Write easy to read code and use proper indentation. 
+   * Get ready to a master at Google. No need to memorize everything.   
+   * Accept and embrace failure quickly. Avoid trying to be a perfectionist.
+   * Troubleshooting and debugging mistakes thoroughly to find a solution is important for learning.
+   * Type the code out until you feel comfortable enough to copy paste. Practice makes perfect.
+   * You are essentially learning how to learn on the first go around.  
+   * Be very specific in your questions and always research before asking.
+   * Write easy to read code and use proper indentation. 
     * [Clean Code With Uncle Bob](https://www.youtube.com/watch?v=-1CuAiKdBQs) 
 
 ***
@@ -46,9 +46,8 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
   ##### POWERFUL
    * Google, Dropbox, Spotify all use Python.
    * Allows for cross-platform compatibility.
-    * Suited for rapid delivery and maintenance. 
-   * Python developers tend to have higher salaries than other languages.
-   * 
+   * Suited for rapid delivery and maintenance. 
+   * Python developers tend to have higher salaries than other languages. 
   ##### VERSATILE
    * Client and server side capabilities.
    * Used for machine learning, game engines, artificial intelligence and data science.
@@ -59,21 +58,21 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
   *Personal preference but executable file download is the simplest option. Download and install Python based off your operating system and system type. Choose and download the IDE of your choosing. I pay for `JetBrains ItelliJ` because I love it.*
 
   #### WINDOWS DOWNLOAD
-  * [Windows Download](https://www.python.org/downloads/windows/)
-  * [YouTube](https://www.youtube.com/watch?v=i-MuSAwgwCU)
+   * [Windows Download](https://www.python.org/downloads/windows/)
+   * [YouTube](https://www.youtube.com/watch?v=i-MuSAwgwCU)
 
   #### MAC OS X DOWNLOAD
-  * [Mac OS X Download](https://www.python.org/downloads/mac-osx/)
-  * [YouTube](https://www.youtube.com/watch?v=TgA4ObrowRg)
+   * [Mac OS X Download](https://www.python.org/downloads/mac-osx/)
+   * [YouTube](https://www.youtube.com/watch?v=TgA4ObrowRg)
 
   #### IDE SELECTION
-  * [IDE Download Options](https://www.guru99.com/python-ide-code-editor.html)  
+   * [IDE Download Options](https://www.guru99.com/python-ide-code-editor.html)  
      
   #### [TOC](#toc)
 ***
 ## <a id="basics"></a>The Fundamentals
 
-  #### VARIABLES  
+  * #### VARIABLES  
   *When a program is running, everything the program needs is stored into the computer's memory. In Python, a variable is a reserved location in memory to store values. In a program it gives data to the computer for processing.* 
   <br />
   <br />
@@ -81,22 +80,26 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
   <details>
     <summary>Rules for Variable Names</summary>
     <ul>
-        <li>Must begin with a letter(upper or lower case) or an underscore_ character.</li>
-        <li>Can contain letters, numbers or underscore characters but can not begin with a number.</li>
-        <li>Variables are case sensitive so example and Example refer to 2 different variables.</li>
+        <li>Must begin with a letter(upper or lower case) or an underscore_ character</li>
+        <li>Can contain letters, numbers or underscore characters but can not begin with a number</li>
+        <li>Variables are case sensitive so example and Example refer to 2 different variables</li>
+        <li>Variables are names/labels that are bound to a value with the use of =.</li>
+        <li><a href="https://realpython.com/python-variables/#object-references">Variables Explained</a></li>
     </ul>
   </details>
-  
-  
-  [Variables Explained](https://realpython.com/python-variables/#object-references)
-
-  #### DATA TYPES 
-  
-  *Strings*
-  * Strings are a sequence of characters, and a derived data type.
-  * Immutable: Once they are defined, they cannot be changed. 
-  * Built-in Python methods such as `replace()`, `join()`,`split()`, etc.
-
+   
+   * #### DATA TYPES
+   *Strongly typed but is also dynamically typed, meaning you are freed from worrying about variable declarations.* 
+    
+   * <details>
+       <summary>STRINGS</summary>
+       <ul>
+           <li>Strings are a sequence of characters, and a derived data type.</li>
+           <li>Immutable: Once they are defined, they cannot be changed. </li>
+           <li>Built-in Python methods such as `replace()`, `join()`,`split()`, etc.</li>
+       </ul>
+     </details>
+ 
   ##### [TOC](#toc)             
 ***
 ## Authors
