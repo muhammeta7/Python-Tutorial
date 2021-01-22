@@ -81,9 +81,9 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
   <details>
     <summary>Rules for Variable Names</summary>
     <ul>
-        <li>Must begin with a letter(upper or lower case) or an underscore_ character</li>
-        <li>Can contain letters, numbers or underscore characters but can not begin with a number</li>
-        <li>Variables are case sensitive so example and Example refer to 2 different variables</li>
+        <li>Must begin with a letter(upper or lower case) or an underscore_ character.</li>
+        <li>Can contain letters, numbers or underscore characters but can not begin with a number.</li>
+        <li>Variables are case sensitive so example and Example refer to 2 different variables.</li>
     </ul>
   </details>
   
