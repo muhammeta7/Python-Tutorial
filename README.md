@@ -16,13 +16,13 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    * Community is enthusiastic to share wealth of knowledge with fellow developers.
    
   #### Keys to Success
-  * Get ready to a master at Google. No need to memorize everything.   
-  * Accept and embrace failure quickly. Avoid trying to be a perfectionist.
-  * Troubleshooting and debugging mistakes thoroughly to find a solution is important for learning.
-  * Type the code out until you feel comfortable enough to copy paste. Practice makes perfect.
-  * You are essentially learning how to learn on the first go around.  
-  * Be very specific in your questions and always research before asking.
-  * Write easy to read code and use proper indentation. 
+   * Get ready to a master at Google. No need to memorize everything.   
+   * Accept and embrace failure quickly. Avoid trying to be a perfectionist.
+   * Troubleshooting and debugging mistakes thoroughly to find a solution is important for learning.
+   * Type the code out until you feel comfortable enough to copy paste. Practice makes perfect.
+   * You are essentially learning how to learn on the first go around.  
+   * Be very specific in your questions and always research before asking.
+   * Write easy to read code and use proper indentation. 
     * [Clean Code With Uncle Bob](https://www.youtube.com/watch?v=-1CuAiKdBQs) 
 
 ***
@@ -84,7 +84,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
         <li>Can contain letters, numbers or underscore characters but can not begin with a number</li>
         <li>Variables are case sensitive so example and Example refer to 2 different variables</li>
         <li>Variables are names/labels that are bound to a value with the use of =.</li>
-        <a href="https://realpython.com/python-variables/#object-references">Variables Explained</a>
+        <li><a href="https://realpython.com/python-variables/#object-references">Variables Explained</a></li>
     </ul>
   </details>
    
