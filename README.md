@@ -23,7 +23,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
   * You are essentially learning how to learn on the first go around.  
   * Be very specific in your questions and always research before asking.
   * Write easy to read code and use proper indentation. 
-    * [Clean Code With Unlce Bob](https://www.youtube.com/watch?v=-1CuAiKdBQs) 
+    * [Clean Code With Uncle Bob](https://www.youtube.com/watch?v=-1CuAiKdBQs) 
 
 ***
 ## <a id="what"></a>What is Python?
@@ -52,41 +52,40 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
   ##### VERSATILE
    * Client and server side capabilities.
    * Used for machine learning, game engines, artificial intelligence and data science.
-##### [TOC](#toc)
+  ##### [TOC](#toc)
 
 ***
 ## <a id="start"></a>Getting Started
   *Personal preference but executable file download is the simplest option. Download and install Python based off your operating system and system type. Choose and download the IDE of your choosing. I pay for `JetBrains ItelliJ` because I love it.*
 
-  #### Windows Download
+  #### WINDOWS DOWNLOAD
   * [Windows Download](https://www.python.org/downloads/windows/)
   * [YouTube](https://www.youtube.com/watch?v=i-MuSAwgwCU)
 
-  #### MAC OS X Download
+  #### MAC OS X DOWNLOAD
   * [Mac OS X Download](https://www.python.org/downloads/mac-osx/)
   * [YouTube](https://www.youtube.com/watch?v=TgA4ObrowRg)
 
-  #### IDE Selection
+  #### IDE SELECTION
   * [IDE Download Options](https://www.guru99.com/python-ide-code-editor.html)  
      
-##### [TOC](#toc)
+  #### [TOC](#toc)
 ***
 ## <a id="basics"></a>The Fundamentals
 
-  #### Variables  
+  #### VARIABLES  
   *When a program is running, everything the program needs is stored into the computer's memory. In Python, a variable is a reserved location in memory to store values. In a program it gives data to the computer for processing.* 
 
-[Variables Explained](https://realpython.com/python-variables/#object-references)
+  [Variables Explained](https://realpython.com/python-variables/#object-references)
 
-### Data Types 
+  #### DATA TYPES 
   
-#### Strings
- * Strings are a sequence of characters, and a derived data type.
- * Immutable: Once they are defined, they cannot be changed. 
- * Built-in Python methods such as `replace()`, `join()`,`split()`, etc.
+  *Strings*
+  * Strings are a sequence of characters, and a derived data type.
+  * Immutable: Once they are defined, they cannot be changed. 
+  * Built-in Python methods such as `replace()`, `join()`,`split()`, etc.
 
-
-###### [TOC](#toc)             
+  ##### [TOC](#toc)             
 ***
-### Authors
+## Authors
 **Muhammet Aydin** [Muhammet Aydin](https://github.com/muhammeta7)
