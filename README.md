@@ -38,16 +38,15 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
 
 ***
 ## <a id="start"></a>Getting Started
-*Personal preference but executable file download is the simplest option.   
-Download and install Python based off your operating system and system type.
-Choose and download the IDE of your choosing. I pay for `JetBrains ItelliJ` because I love it.*
+*Personal preference but executable file download is the simplest option. Download and install Python based off your operating system and system type. Choose and download the IDE of your choosing. I pay for `JetBrains ItelliJ` because I love it.*
 
 #### Windows Download
 * [Windows Download](https://www.python.org/downloads/windows/)
-* [Youtube](https://www.youtube.com/watch?v=i-MuSAwgwCU)
+* [YouTube](https://www.youtube.com/watch?v=i-MuSAwgwCU)
 
 #### MAC OS X Download
 * [Mac OS X Download](https://www.python.org/downloads/mac-osx/)
+* [YouTube](https://www.youtube.com/watch?v=TgA4ObrowRg)
 
 #### IDE Selection
 * [IDE Download Options](https://www.guru99.com/python-ide-code-editor.html)  
