@@ -15,9 +15,23 @@ userInput = input("Please enter your name ")
 print(greeting + ' ' + userInput)
 # Hello [Word typed in from user]
 
-
-
 # Start and end with exact same type of quotation.
 # You can us concatenation to add multiple strings together.
 # Storing strings into variables is a good way to reference them for later use.
 # Assigning a variable to the input function allows you to store user input.
+
+# ==================================================================================
+age = 24
+print(age)
+
+#
+print(type(greeting))
+print(type(age))
+
+age = "2 years"
+print(age)
+print(type(age))
+
+# Example will create an TypeError bc Python can not concatenate a string to an int
+# Adding strings to strings works and ints to ints
+print(name + ' is ' + age + ' years old')
