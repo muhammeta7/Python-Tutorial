@@ -46,7 +46,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
   ##### POWERFUL
    * Google, Dropbox, Spotify all use Python.
    * Allows for cross-platform compatibility.
-   * Suited for rapid delivery and maintenance. 
+    * Suited for rapid delivery and maintenance. 
    * Python developers tend to have higher salaries than other languages.
    * 
   ##### VERSATILE
@@ -75,7 +75,19 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
 
   #### VARIABLES  
   *When a program is running, everything the program needs is stored into the computer's memory. In Python, a variable is a reserved location in memory to store values. In a program it gives data to the computer for processing.* 
-
+  <br />
+  <br />
+  
+  <details>
+    <summary>Rules for Variable Names</summary>
+    <ul>
+        <li>Must begin with a letter(upper or lower case) or an underscore_ character</li>
+        <li>Can contain letters, numbers or underscore characters but can not begin with a number</li>
+        <li>Variables are case sensitive so example and Example refer to 2 different variables</li>
+    </ul>
+  </details>
+  
+  
   [Variables Explained](https://realpython.com/python-variables/#object-references)
 
   #### DATA TYPES 
