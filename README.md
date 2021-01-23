@@ -23,7 +23,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    * You are essentially learning how to learn on the first go around.  
    * Be very specific in your questions and always research before asking.
    * Write easy to read code and use proper indentation. 
-    * [Clean Code With Uncle Bob](https://www.youtube.com/watch?v=-1CuAiKdBQs) 
+      * [Clean Code With Uncle Bob](https://www.youtube.com/watch?v=-1CuAiKdBQs) 
 
 ***
 ## <a id="what"></a>What is Python?
