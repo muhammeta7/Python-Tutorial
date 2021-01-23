@@ -147,6 +147,17 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    Modulo(Remainder) | % 
    Exponentiation | ** 
    
+   <details>
+        <summary><b>Operator Precedence</b></summary>
+        <h5>PEMDAS</h5>
+        <p>Parenthesis, Exponents, Multiplication / Division, Addition / Subtraction</p>
+        <ul>
+            <li>Multiplication and division have equal precedence.</li>
+            <li>Addition and subtraction have equal precedence.</li>
+            <li>If an expression contains operations of equal precedence, they're evaluated from left to right.</li>
+        </ul>
+   </details>
+   
    #### DATA TYPES 
    *Strongly typed but is also dynamically typed, meaning you are freed from worrying about variable declarations. Python's built-in data types include:* 
  
