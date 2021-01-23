@@ -74,8 +74,50 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
 ## <a id="basics"></a>The Fundamentals
 
   #### VARIABLES  
-  *When a program is running, everything the program needs is stored into the computer's memory. In Python, a variable is a reserved location in memory to store values. In a program it gives data to the computer for processing.* 
+  *A reserved location in memory to store a value(data) like a string or a number. In a program it gives data to the computer for processing.* 
   <br />
+  
+  <details>
+    <summary>Types</summary>
+    <p>A category of values.</p>
+    <table>
+      <tr>
+        <th>Type</th>
+        <th>Value</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td>bool</td>
+        <td>True or False</td>
+        <td>Boolean</td>
+      </tr>
+      <tr>
+        <td>float</td>
+        <td>5.3</td>
+        <td>Floating-point number</td>
+      </tr>
+      <tr>
+        <td>int</td>
+        <td>1</td>
+        <td>Integer</td>
+      </tr>
+      <tr>
+        <td>str</td>
+        <td>'1' or "2"</td>
+        <td>String</td>
+      </tr>
+      <tr>
+        <td>None</td>
+        <td> </td>
+        <td>Absence of value</td>
+      </tr>
+    </table>
+    <br>
+    
+    
+    
+    
+  </details>
   
   <details>
     <summary>Rules for Variable Names</summary>
