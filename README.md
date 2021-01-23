@@ -74,8 +74,16 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
 ## <a id="basics"></a>The Fundamentals
 
   #### VARIABLES  
-  *A reserved location in memory to store a value(data) like a string or a number. In a program it gives data to the computer for processing.* 
+  *A `variable` is a name that refers to a value. An `assignment` is the statement that assigns a value to a variable. A reserved location in memory to store a value(data) like a string or a number. In a program it gives data to the computer for processing.* 
   <br />
+  
+  ```python
+    # Examples
+    a = 10
+    greeting = 'Howdy'
+    pi = 3.1415926535897932
+    current_player = None
+  ```
   
   <details>
     <summary>Types</summary>
