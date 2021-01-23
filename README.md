@@ -55,7 +55,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
 
 ***
 ## <a id="start"></a>Getting Started
-  *Personal preference but executable file download is the simplest option. Download and install Python based off your operating system and system type. Choose and download the IDE of your choosing. I pay for `JetBrains ItelliJ` because I love it.*
+  *Personal preference but executable file download is the simplest option. Download and install Python based off your operating system and system type.*
 
   #### WINDOWS DOWNLOAD
    * [Windows Download](https://www.python.org/downloads/windows/)
@@ -66,13 +66,14 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    * [YouTube](https://www.youtube.com/watch?v=TgA4ObrowRg)
 
   #### IDE SELECTION
+   *Choose and download the IDE of your choosing. I pay for `JetBrains ItelliJ` because I love it.*
    * [IDE Download Options](https://www.guru99.com/python-ide-code-editor.html)  
      
   #### [TOC](#toc)
 ***
 ## <a id="basics"></a>The Fundamentals
 
-  * #### VARIABLES  
+  #### VARIABLES  
   *When a program is running, everything the program needs is stored into the computer's memory. In Python, a variable is a reserved location in memory to store values. In a program it gives data to the computer for processing.* 
   <br />
   <br />
@@ -88,17 +89,42 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
     </ul>
   </details>
    
-   * #### DATA TYPES
-   *Strongly typed but is also dynamically typed, meaning you are freed from worrying about variable declarations.* 
+   #### DATA TYPES
+   *Strongly typed but is also dynamically typed, meaning you are freed from worrying about variable declarations. Python's built-in data types include:* 
+   * numeric
+   * iterator
+   * sequence(also iterators)
+   * mapping
+   * file
+   * class
+   * exception
     
-   * <details>
+   <details>
        <summary>STRINGS</summary>
        <ul>
            <li>Strings are a sequence of characters, and a derived data type.</li>
            <li>Immutable: Once they are defined, they cannot be changed. </li>
            <li>Built-in Python methods such as `replace()`, `join()`,`split()`, etc.</li>
        </ul>
-     </details>
+   </details>
+   <details>
+      <summary>NUMERIC TYPES</summary>
+      <h5>int</h5>
+      <ul>
+          <li>int test</li>
+      </ul>
+      <h5>float</h5>
+      <ul>
+        <li>float test</li>
+      </ul>
+      <h5>complex</h5>
+      <ul>
+        <li>complex</li>
+      </ul>   
+   </details>
+     
+     
+  
  
   ##### [TOC](#toc)             
 ***
