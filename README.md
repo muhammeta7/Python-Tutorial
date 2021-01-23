@@ -124,7 +124,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
     </table>
     <a href="https://realpython.com/python-data-types/">More Information</a>
   </details>
-  <br><br>
+  <br>
   <details>
     <summary>Rules for Variable Names</summary>
     <ul>
