@@ -112,9 +112,9 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
         <td>Absence of value</td>
       </tr>
     </table>
-    <br>
+    <a href="https://realpython.com/python-data-types/">More Information</a>
   </details>
-  
+  <br><br>
   <details>
     <summary>Rules for Variable Names</summary>
     <ul>
@@ -125,8 +125,19 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
         <li><a href="https://realpython.com/python-variables/#object-references">More Info</a></li>
     </ul>
   </details>
+  
+   #### ARITHMETIC
+   Operation | Symbol
+   | :---: | :---: |
+   Addition  | + 
+   Subtraction | - 
+   Multiplication  | * 
+   Division  | / 
+   Floor Division  | // 
+   Modulo(Remainder) | % 
+   Exponentiation | ** 
    
-   #### DATA TYPES & OPERATORS
+   #### DATA TYPES 
    *Strongly typed but is also dynamically typed, meaning you are freed from worrying about variable declarations. Python's built-in data types include:* 
    1. numeric<br>
     *Keep in mind it is important to understand the difference in the different numeric types.*
@@ -154,7 +165,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
             <ul>
                 <li>Contain a real and an imaginary part, based on square root of -1.</li>
                 <li>More for advanced mathematics/engineering topics.</li>
-                <li>WILL NOT be covered in this tutroial.</li>
+                <li>WILL NOT be covered in this tutorial.</li>
             </ul>
           </details>
     
