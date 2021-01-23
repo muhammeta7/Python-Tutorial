@@ -76,7 +76,6 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
   #### VARIABLES  
   *When a program is running, everything the program needs is stored into the computer's memory. In Python, a variable is a reserved location in memory to store values. In a program it gives data to the computer for processing.* 
   <br />
-  <br />
   
   <details>
     <summary>Rules for Variable Names</summary>
@@ -85,13 +84,42 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
         <li>Can contain letters, numbers or underscore characters but can not begin with a number</li>
         <li>Variables are case sensitive so example and Example refer to 2 different variables</li>
         <li>Variables are names/labels that are bound to a value with the use of =.</li>
-        <li><a href="https://realpython.com/python-variables/#object-references">Variables Explained</a></li>
+        <li><a href="https://realpython.com/python-variables/#object-references">More Info</a></li>
     </ul>
   </details>
    
-   #### DATA TYPES
+   #### DATA TYPES & OPERATORS
    *Strongly typed but is also dynamically typed, meaning you are freed from worrying about variable declarations. Python's built-in data types include:* 
-   1. numeric
+   1. numeric<br>
+    *Keep in mind it is important to understand the difference in the different numeric types.*
+        * <details>
+                <summary>int</summary>
+                <ul>
+                    <li>Whole numbers with no fractional part or decimals.</li>
+                    <li>Computations using integers are significantly faster than using floating point numbers.</li>
+                    <li>Python 3 has no maximum size limitation for ints. You will run out of memory before you can can exceed the size limit.</li>
+                    <li>Python 2 used to have a long for large numbers but has been replaced by int in latest edition.</li>
+                </ul>
+          </details>
+          <br>
+        * <details>
+                <summary>float</summary>
+                <ul>
+                  <li>Real numbers or numbers having a fractional part after the decimal.</li>
+                  <li>Max float value on 64 bit computer is 1.797e308 or move the decimal 308 places right</li>
+                  <li>Minimum float value is 2.25e-308 or 307 zeros before the decimal point.</li>
+                  <li>52 digits of precision generally enough, but if you require more precision you can use a Decimal data type.</li>
+          </details>
+          <br>
+        * <details>
+            <summary>complex</summary>
+            <ul>
+                <li>Contain a real and an imaginary part, based on square root of -1.</li>
+                <li>More for advanced mathematics/engineering topics.</li>
+                <li>WILL NOT be covered in this tutroial.</li>
+            </ul>
+          </details>
+    
    2. iterator
    3. sequence(also iterators)
    4. mapping
@@ -107,26 +135,8 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
            <li>Built-in Python methods such as `replace()`, `join()`,`split()`, etc.</li>
        </ul>
    </details>
-   <details>
-      <summary>Numeric</summary>
-      <p>Keep in mind it is important to understand the difference in the different numeric types.</p>
-      <h4>int</h4>
-      <ul>
-          <li>Whole numbers with no fractional part or decimals.</li>
-          <li>Computations using integers are significantly faster than using floating point numbers.</li>
-          <li>Python 3 has no maximum size limitation for ints. You will run out of memory before you can can exceed the size limit.</li>
-          <li>Python 2 used to have a long for large numbers but has been replaced by int in latest edition.</li>
-      </ul>
-      <h4>float</h4>
-      <ul>
-        <li>Real numbers or numbers having a fractional part after the decimal.</li>
-        <li>Max float value on 64 bit computer is 1.797e308 or move the decimal 308 places right</li>
-        <li>Minimum float value is 2.25e-308 or 307 zeros before the decimal point.</li>
-        <li>52 digits of precision generally enough, but if you require more precision you can use a Decimal data type.</li>
-      </ul>
-      <h4>complex</h4>
-      <p>Contain a real and an imaginary part, based on square root of -1. More for advanced mathematics/engineering topics.</p>
-   </details>
+   
+   
      
   ##### [TOC](#toc)             
 ***
