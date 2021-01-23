@@ -74,8 +74,16 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
 ## <a id="basics"></a>The Fundamentals
 
   #### VARIABLES  
-  *A reserved location in memory to store a value(data) like a string or a number. In a program it gives data to the computer for processing.* 
+  *A `variable` is a name that refers to a value. An `assignment` is the statement that assigns a value to a variable. A reserved location in memory to store a value(data) like a string or a number. In a program it gives data to the computer for processing.* 
   <br />
+  
+  ```python
+    # Examples
+    a = 10
+    greeting = 'Howdy'
+    pi = 3.1415926535897932
+    current_player = None
+  ```
   
   <details>
     <summary>Types</summary>
@@ -112,9 +120,9 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
         <td>Absence of value</td>
       </tr>
     </table>
-    <br>
+    <a href="https://realpython.com/python-data-types/">More Information</a>
   </details>
-  
+  <br><br>
   <details>
     <summary>Rules for Variable Names</summary>
     <ul>
@@ -125,8 +133,19 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
         <li><a href="https://realpython.com/python-variables/#object-references">More Info</a></li>
     </ul>
   </details>
+  
+   #### ARITHMETIC
+   Operation | Symbol
+   | :---: | :---: |
+   Addition  | + 
+   Subtraction | - 
+   Multiplication  | * 
+   Division  | / 
+   Floor Division  | // 
+   Modulo(Remainder) | % 
+   Exponentiation | ** 
    
-   #### DATA TYPES & OPERATORS
+   #### DATA TYPES 
    *Strongly typed but is also dynamically typed, meaning you are freed from worrying about variable declarations. Python's built-in data types include:* 
    1. numeric<br>
     *Keep in mind it is important to understand the difference in the different numeric types.*
@@ -154,7 +173,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
             <ul>
                 <li>Contain a real and an imaginary part, based on square root of -1.</li>
                 <li>More for advanced mathematics/engineering topics.</li>
-                <li>WILL NOT be covered in this tutroial.</li>
+                <li>WILL NOT be covered in this tutorial.</li>
             </ul>
           </details>
     
