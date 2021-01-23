@@ -163,7 +163,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
         <h5>float</h5>
         <ul>
             <li>Real numbers or numbers having a fractional part after the decimal.</li>
-            <li>Max float value on 64 bit computer is 1.797e308 or move the decimal 308 places right</li>
+            <li>Max float value on 64 bit computer is 1.797e308 or move the decimal 308 places right.</li>
             <li>Minimum float value is 2.25e-308 or 307 zeros before the decimal point.</li>
             <li>52 digits of precision generally enough, but if you require more precision you can use a Decimal data type.</li>
         </ul>
@@ -204,18 +204,8 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    * <details>
         <summary><b>exception</b></summary>
       </details>
- 
-    
-   <details>
-       <summary></summary>
-       <ul>
-           
-       </ul>
-   </details>
-   
-   
      
-  ##### [TOC](#toc)             
+  #### [TOC](#toc)             
 ***
 ## Authors
 **Muhammet Aydin** [Muhammet Aydin](https://github.com/muhammeta7)
