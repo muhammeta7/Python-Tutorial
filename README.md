@@ -91,13 +91,13 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    
    #### DATA TYPES
    *Strongly typed but is also dynamically typed, meaning you are freed from worrying about variable declarations. Python's built-in data types include:* 
-   * numeric
-   * iterator
-   * sequence(also iterators)
-   * mapping
-   * file
-   * class
-   * exception
+   1. numeric
+   2. iterator
+   3. sequence(also iterators)
+   4. mapping
+   5. file
+   6. class
+   7. exception
     
    <details>
        <summary>STRINGS</summary>
@@ -109,23 +109,25 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    </details>
    <details>
       <summary>NUMERIC TYPES</summary>
+      <p>Keep in mind it is important to understand the difference in the different numeric types.</p>
       <h5>int</h5>
       <ul>
-          <li>int test</li>
+          <li>Whole numbers with no fractional part or decimals.</li>
+          <li>Computations using integers are significantly faster than using floating point numbers.</li>
+          <li>Python 3 has no maximum size limitation for ints. You will run out of memory before you can can exceed the size limit.</li>
+          <li>Python 2 used to have a long for large numbers but has been replaced by int in latest edition.</li>
       </ul>
       <h5>float</h5>
       <ul>
-        <li>float test</li>
+        <li>Real numbers or numbers having a fractional part after the decimal.</li>
+        <li>Max float value on 64 bit computer is 1.797e308 or move the decimal 308 places right</li>
+        <li>Minimum float value is 2.25e-308 or 307 zeros before the decimal point.</li>
+        <li>52 digits of precision generally enough, but if you require more precision you can use a Decimal data type.</li>
       </ul>
       <h5>complex</h5>
-      <ul>
-        <li>complex</li>
-      </ul>   
+      <p>Contain a real and an imaginary part, based on square root of -1. More for advanced mathematics/engineering topics.</p>
    </details>
      
-     
-  
- 
   ##### [TOC](#toc)             
 ***
 ## Authors
