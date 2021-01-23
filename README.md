@@ -150,7 +150,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    #### DATA TYPES 
    *Strongly typed but is also dynamically typed, meaning you are freed from worrying about variable declarations. Python's built-in data types include:* 
  
-   1. <details>
+   * <details>
         <summary><b>numeric</b></summary>
         <p>Note: It is important to understand the difference in the different numeric types.</p>
         <h5>int</h5>
@@ -175,37 +175,41 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
         </ul>
       </details>
         
-   2. <details>
+   * <details>
         <summary><b>iterator</b></summary>
       </details>
     
-   3. <details>
+   * <details>
         <summary><b>sequence</b>(also iterators)</summary>
+        <h5>strings</h5>
+        <ul>
+            <li>Strings are a sequence of characters, and a derived data type.</li>
+            <li>Immutable: Once they are defined, they cannot be changed. </li>
+            <li>Built-in Python methods such as `replace()`, `join()`,`split()`, etc.</li>
+        </ul>
       </details>
       
-   4. <details>
+   * <details>
         <summary><b>mapping</b></summary>
       </details>
     
-   5. <details>
+   * <details>
         <summary><b>file</b></summary>
       </details>
     
-   6. <details>
+   * <details>
         <summary><b>class</b></summary>
       </details>
        
-   7. <details>
+   * <details>
         <summary><b>exception</b></summary>
       </details>
  
     
    <details>
-       <summary>Strings</summary>
+       <summary></summary>
        <ul>
-           <li>Strings are a sequence of characters, and a derived data type.</li>
-           <li>Immutable: Once they are defined, they cannot be changed. </li>
-           <li>Built-in Python methods such as `replace()`, `join()`,`split()`, etc.</li>
+           
        </ul>
    </details>
    
