@@ -103,7 +103,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
       </tr>
       <tr>
         <td>str</td>
-        <td>'1' or "2"</td>
+        <td>'single' or "double"</td>
         <td>String</td>
       </tr>
       <tr>
@@ -113,10 +113,6 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
       </tr>
     </table>
     <br>
-    
-    
-    
-    
   </details>
   
   <details>
