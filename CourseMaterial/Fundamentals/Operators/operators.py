@@ -1,5 +1,8 @@
-# An expression is anything that can be calculated to return a value
+# Expression is combination of values, variables, and operators.
 # Value 12 is assigned/bound to variable a
+# A value or a variable by itself is considered an expression
+# A statement is a unit of code that has an effect, like creating a variable or displaying a value.
+
 a = 12
 b = 3
 print(a + b)    # 15
