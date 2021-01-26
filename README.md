@@ -24,8 +24,8 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    * Be very specific in your questions and always research before asking.
    * Write easy to read code and use proper indentation. 
    
-   [Clean Code With Uncle Bob](https://www.youtube.com/watch?v=-1CuAiKdBQs) 
-   ##### [TOC](#toc)
+   **[Clean Code With Uncle Bob](https://www.youtube.com/watch?v=-1CuAiKdBQs)** <br /> 
+   **[TOC](#toc)**
 
 ***
 ## <a id="what"></a>What is Python?
@@ -33,11 +33,12 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
   * Supports object-oriented, procedural, and functional programming. 
   * Supports basic data types such as strings and numbers and complex data types like lists and dictionaries.
   * Strongly typed but is also dynamically typed, meaning you are freed from worrying about variable declarations.
+  * Open source, friendly, and simplistic but with a lot of power.
  
-  [Python Landing Page](https://www.python.org/) <br />
-  [What is Python?](https://www.python.org/doc/essays/blurb/)
-
-###### [TOC](#toc)
+  **[Python Landing Page](https://www.python.org/)** <br />
+  **[What is Python?](https://www.python.org/doc/essays/blurb/)** <br />
+  **[TOC](#toc)**
+  
 ***
 ## <a id="why"></a>Why Learn Python?
 
@@ -45,33 +46,43 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    * Focus on programming concepts versus learning syntax.
    * User friendly documentation and installation.
    * Developers contribute religiously to community by creating Python libraries.
+   
+   **[Python Ebook](https://greenteapress.com/wp/think-python-2e/)** <br />
+   **[Python Docs](https://www.python.org/doc/)** <br />
+   **[Standard Library Docs](https://www.python.org/about/apps/)** 
   ##### POWERFUL
    * Google, Dropbox, Spotify all use Python.
    * Allows for cross-platform compatibility.
    * Suited for rapid delivery and maintenance. 
    * Python developers tend to have higher salaries than other languages. 
+   
+   **[Apps](https://www.python.org/about/apps/)**
   ##### VERSATILE
    * Client and server side capabilities.
    * Used for machine learning, game engines, artificial intelligence and data science.
-  ##### [TOC](#toc)
+   * Thousands of third-party modules
+   
+   **[Python Package Index(PyPI)](https://www.python.org/doc/)**
+   
+   **[TOC](#toc)**
 
 ***
 ## <a id="start"></a>Getting Started
   *Personal preference but executable file download is the simplest option. Download and install Python based off your operating system and system type.*
 
   #### WINDOWS DOWNLOAD
-   * [Windows Download](https://www.python.org/downloads/windows/)
-   * [YouTube](https://www.youtube.com/watch?v=i-MuSAwgwCU)
+   * **[Windows Download](https://www.python.org/downloads/windows/)**
+   * **[YouTube](https://www.youtube.com/watch?v=i-MuSAwgwCU)**
 
   #### MAC OS X DOWNLOAD
-   * [Mac OS X Download](https://www.python.org/downloads/mac-osx/)
-   * [YouTube](https://www.youtube.com/watch?v=TgA4ObrowRg)
+   * **[Mac OS X Download](https://www.python.org/downloads/mac-osx/)**
+   * **[YouTube](https://www.youtube.com/watch?v=TgA4ObrowRg)**
 
   #### IDE SELECTION
-   *Choose and download the IDE of your choosing. I pay for `JetBrains ItelliJ` because I love it.*
-   * [IDE Download Options](https://www.guru99.com/python-ide-code-editor.html)  
+   *Choose and download the IDE of your choosing. I pay for `JetBrains ItelliJ` because I love it.*<br />
+   **[IDE Download Options](https://www.guru99.com/python-ide-code-editor.html)**  
      
-  #### [TOC](#toc)
+  **[TOC](#toc)**
 ***
 ## <a id="basics"></a>The Fundamentals
 
@@ -86,6 +97,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
     pi = 3.1415926535897932
     current_player = None
   ```
+
   
   <details>
     <summary>Types</summary>
@@ -124,19 +136,22 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
     </table>
     <a href="https://realpython.com/python-data-types/">More Information</a>
   </details>
-  <br>
   <details>
     <summary>Rules for Variable Names</summary>
     <ul>
         <li>Must begin with a letter(upper or lower case) or an underscore_ character</li>
         <li>Can contain letters, numbers or underscore characters but can not begin with a number</li>
-        <li>Variables are case sensitive so example and Example refer to 2 different variables</li>
+        <li>Case sensitive so example and Example refer to 2 different variables but by convention only lowercase letters are used.</li>
+        <li>Underscore character is often used in names with multiple words.</li>
         <li>Variables are names/labels that are bound to a value with the use of =.</li>
+        <li>Keywords can not be used as variable names. <a href="https://www.programiz.com/python-programming/keywords-identifier">Reserved Keywords</a></li>
     </ul>
-    <a href="https://realpython.com/python-variables/#object-references">More Info</a>
+    <a href="https://realpython.com/python-variables/#object-references"><b>More Info</b></a>
   </details>
   
-   #### ARITHMETIC
+   #### Opertors 
+   **Arithmetic**
+   
    Operation | Symbol
    | :---: | :---: |
    Addition  | + 
@@ -146,6 +161,10 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    Floor Division  | // 
    Modulo(Remainder) | % 
    Exponentiation | ** 
+   
+   **Strings**
+   * **`+`** is String Concatenation
+   * **`*`** Repetition
    
    <details>
         <summary><b>Operator Precedence</b></summary>
@@ -216,7 +235,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
         <summary><b>exception</b></summary>
       </details>
      
-  #### [TOC](#toc)             
+  **[TOC](#toc)**             
 ***
 ## Authors
 **Muhammet Aydin** [Muhammet Aydin](https://github.com/muhammeta7)
