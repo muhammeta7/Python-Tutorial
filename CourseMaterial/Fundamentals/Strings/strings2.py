@@ -1,4 +1,5 @@
 # Strings are sequence type so you can index through each character
+# [ ] used for indexing
 parrot = "Norwegian Blue"
 print(parrot)   # Norwegian Blue
 print(parrot[3])    # w bc index starts at 0
@@ -11,14 +12,13 @@ print(parrot[6])
 print(parrot[8])
 
 print('='*15)
-
 #########################   INDEXING NEGATIVELY THROUGH STRING  ##########################
 # You can go index through strings using negative index values as well
 print(parrot[-1])   # e at the last index
 print(parrot[-14])  # N at the first index
 
-# Try printing we win now using negative indexing
 print('='*15)
+# Try printing we win now using negative indexing
 print(parrot[-11])
 print(parrot[-1])
 print(parrot[-5])
@@ -26,6 +26,35 @@ print(parrot[-11])
 print(parrot[-8])
 print(parrot[-6])
 
+print('='*15)
 # Note: The negative index of a character can be computed by taking the positive index
 # numbers from the first example and subtracting the string length from it.
 # i.e. parrot[3] = 'w'  parrot[3 - 14] AKA parrot[-11]
+
+#########################   SLICING STRING  ##########################
+# [ ]  used for slicing strings as well
+# The first number is the start and the second value is up to and not including the end, similar to ranges
+# parrot = "Norwegian Blue"
+print(parrot[3:5])  # we
+# starts at third index of string w and ends at the 4th index of start, the fifth index being excluded in result
+print(parrot[0:6])  # Norweg
+print(parrot[:6])   # Norweg same as above because no value on left side of : indicates indexing from start of string
+print(parrot[0:9])  # Norwegian
+print(parrot[:9])   # Norwegian
+print(parrot[10:14]) # Blue
+print(parrot[10:])  # Blue same as above because no value on right side of : indicates indexing to end of string
+print('='*15)
+print(parrot[6:] + parrot[6:]) # Norwegian Blue prints complete word because everything is included
+print(parrot[:]) # Norwegian Blue   --> Not generally recommended but works well for lists to make copies
+print('='*15)
+# NEGATIVE SLICING
+print(parrot[-4:2]) # Can't go backwords from starting position
+print(parrot[-4:-2]) # Bl
+print(parrot[-4:12]) # Bl
+print('='*15)
+# Do negative slicing versions of previous slicing example.
+print(parrot[-14:-8])  # Norweg
+print(parrot[-14:-5])  # Norwegian
+print(parrot[-4:14])    # Blue
+
+
