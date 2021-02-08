@@ -134,8 +134,9 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
         <td>Absence of value</td>
       </tr>
     </table>
-    <a href="https://realpython.com/python-data-types/">More Information</a>
+    <a href="https://realpython.com/python-data-types/"><b>More Information</b></a>
   </details>
+  
   <details>
     <summary>Rules for Variable Names</summary>
     <ul>
@@ -161,10 +162,6 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    Floor Division  | // 
    Modulo(Remainder) | % 
    Exponentiation | ** 
-   
-   **Strings**
-   * **`+`** is String Concatenation
-   * **`*`** Repetition
    
    <details>
         <summary><b>Operator Precedence</b></summary>
@@ -211,14 +208,17 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
     
    * <details>
         <summary><b>sequence</b>(also iterators)</summary>
-        <h5>strings</h5>
+        <h5>str type</h5>
         <ul>
             <li>Strings are a sequence of characters, and a derived data type.</li>
             <li>Immutable: Once they are defined, they cannot be changed. </li>
             <li>Built-in Python methods such as `replace()`, `join()`,`split()`, etc.</li>
         </ul>
+        <p><i>String Operators</i></p>
+            <li><b>+</b> is String Concatenation</li>
+            <li><b>**</b> is Repetition</li> 
       </details>
-      
+  
    * <details>
         <summary><b>mapping</b></summary>
       </details>
