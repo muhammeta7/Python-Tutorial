@@ -115,5 +115,3 @@ print(computer_parts[1][4]) # t
 
 # Everything that you can do with strings you can do with other sequence types.
 # NOTE: not all sequence types can be concatenated or multiplied. Range can not be concatenated.
-
-
