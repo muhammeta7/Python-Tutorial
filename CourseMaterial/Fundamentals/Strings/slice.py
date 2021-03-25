@@ -96,3 +96,22 @@ print(letters[:-9:-1])
 print(letters[-4:]) # wzyz
 print(letters[-1:]) # z
 print(letters[:1]) # a --> useful for getting first index for empty string w/o code crushing
+
+
+# Sequence
+# 5 types include:
+# String
+# List
+# tuple
+# range
+# byte & bytearray
+
+# Defined as ordered set of items so you can index individual items in the sequence.
+computer_parts = ['computer', 'monitor', 'keyboard', 'mouse']
+print(computer_parts[1])    # monitor
+# Since strings are also a sequence you can index into the string monitor as well sequence[][]
+print(computer_parts[1][0]) # m
+print(computer_parts[1][4]) # t
+
+# Everything that you can do with strings you can do with other sequence types.
+# NOTE: not all sequence types can be concatenated or multiplied. Range can not be concatenated.

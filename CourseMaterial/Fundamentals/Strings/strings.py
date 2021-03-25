@@ -28,7 +28,6 @@ print(greeting + ' ' + userInput)
 age = 24
 print(age)
 
-#
 print(type(greeting))
 print(type(age))
 
