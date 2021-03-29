@@ -16,7 +16,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    * Community is enthusiastic to share wealth of knowledge with fellow developers.
    
   #### Keys to Success
-   * Get ready to a master at Google. No need to memorize everything.   
+   * Get ready to be a master at Google. No need to memorize everything.   
    * Accept and embrace failure quickly. Avoid trying to be a perfectionist.
    * Troubleshooting and debugging mistakes thoroughly to find a solution is important for learning.
    * Type the code out until you feel comfortable enough to copy paste. Practice makes perfect.
