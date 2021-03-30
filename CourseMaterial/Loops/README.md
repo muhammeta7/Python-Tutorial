@@ -68,7 +68,19 @@ Result
 6
 8
 ```
-
+You can also do a negative step with the same format start, end, and step value.
+````python
+for i in range(10, 0, -2):
+    print(i)
+````
+Result
+```
+10
+8
+6
+4
+2
+```
 
 
 
