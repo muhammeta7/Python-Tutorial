@@ -82,6 +82,14 @@ Result
 2
 ```
 
+### Nested Loops
+Nesting a for loop withing another for loop is a powerful way to process data and occurs regularly.
+```python
+for i in range(1, 13):
+	for j in range(1, 13):
+		print("{0} times {1} is {2}".format(j, i, i * j))
+```
+
 
 
  
