@@ -90,6 +90,9 @@ for i in range(1, 13):
 		print("{0} times {1} is {2}".format(j, i, i * j))
 ```
 
-
-
- 
+# Continue and Break
+1. **break:** statement in Python terminates the current loop and resumes execution at the next statement, 
+  just like the traditional break found in C. The most common use for break is when some external condition is triggered requiring a hasty exit from a loop. 
+  The break statement can be used in both while and for loops.
+2. **continue:** statement in Python returns the control to the beginning of the while loop. The continue statement rejects all the remaining statements in 
+  the current iteration of the loop and moves the control back to the top of the loop. 
