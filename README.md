@@ -201,39 +201,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
             <li>WILL NOT be covered in this tutorial.</li>
         </ul>
       </details>
-        
-   * <details>
-        <summary><b>iterator</b></summary>
-      </details>
-    
-   * <details>
-        <summary><b>sequence</b>(also iterators)</summary>
-        <h5>str type</h5>
-        <ul>
-            <li>Strings are a sequence of characters, and a derived data type.</li>
-            <li>Immutable: Once they are defined, they cannot be changed. </li>
-            <li>Built-in Python methods such as `replace()`, `join()`,`split()`, etc.</li>
-        </ul>
-        <p><i>String Operators</i></p>
-            <li><b>+</b> is String Concatenation</li>
-            <li><b>**</b> is Repetition</li> 
-      </details>
-  
-   * <details>
-        <summary><b>mapping</b></summary>
-      </details>
-    
-   * <details>
-        <summary><b>file</b></summary>
-      </details>
-    
-   * <details>
-        <summary><b>class</b></summary>
-      </details>
-       
-   * <details>
-        <summary><b>exception</b></summary>
-      </details>
+
      
   **[TOC](#toc)**             
 ***

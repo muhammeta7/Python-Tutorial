@@ -96,3 +96,5 @@ for i in range(1, 13):
   The break statement can be used in both while and for loops.
 2. **continue:** statement in Python returns the control to the beginning of the while loop. The continue statement rejects all the remaining statements in 
   the current iteration of the loop and moves the control back to the top of the loop. 
+   
+*Note: You generally want to avoid using these because there are more efficient ways to produce the same outcomes using Python*
