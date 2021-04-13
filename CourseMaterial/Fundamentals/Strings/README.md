@@ -44,3 +44,13 @@ print("""The NE coach said "Cam's not that good of a QB". """)
 ```
 Refer to **escapecharacter.py** for more examples.
 
+### Concatenation 
+String concatenation is one of the fundamental string operations and achieved using the `+` symbol. It is just a fancy way of joining multiple strings together.
+<br />
+
+*Concatenation Rules:*
+* When using the + operator where one of the operands is a string, both operands must be a string.
+* You can convert a numeric value to a string with the built-in function str().
+* Be sure to start and end with exact same type of quotation.
+* Storing strings into variables is the most optimal way to reference them for later use.
+* If you try to concatenate a string with a non-string type, Python will raise a TypeError.

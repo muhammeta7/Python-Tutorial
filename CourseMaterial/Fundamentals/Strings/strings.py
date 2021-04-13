@@ -18,10 +18,6 @@ print('3' + '3')    # '33'
 #  User Input
 userInput = input("Please enter your name ")
 print(greeting + ' ' + userInput)
-# Hello [Word typed in from user]
-# Start and end with exact same type of quotation.
-# You can us concatenation to add multiple strings together.
-# Storing strings into variables is a good way to reference them for later use.
 # Assigning a variable to the input function allows you to store user input.
 
 # ==================================================================================
