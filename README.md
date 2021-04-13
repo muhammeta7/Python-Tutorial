@@ -202,7 +202,6 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
         </ul>
       </details>
 
-     
   **[TOC](#toc)**             
 ***
 ## Authors
