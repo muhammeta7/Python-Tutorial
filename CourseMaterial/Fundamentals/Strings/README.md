@@ -54,3 +54,8 @@ String concatenation is one of the fundamental string operations and achieved us
 * Be sure to start and end with exact same type of quotation.
 * Storing strings into variables is the most optimal way to reference them for later use.
 * If you try to concatenate a string with a non-string type, Python will raise a TypeError.
+
+Refer to **strings.py** and link for more examples.
+
+
+**[Splitting, Concatenating, and Joining Strings in Python](https://realpython.com/python-string-split-concatenate-join/)** <br /> 
