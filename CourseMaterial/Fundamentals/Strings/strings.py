@@ -31,6 +31,5 @@ age = "2 years"
 print(age)
 print(type(age))
 
-# Example will create an TypeError bc Python can not concatenate a string to an int
 # Adding strings to strings works and ints to ints
 print(name + ' is ' + age + ' years old')

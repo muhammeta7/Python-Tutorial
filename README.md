@@ -19,7 +19,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    * Get ready to a master at Google. No need to memorize everything.   
    * Accept and embrace failure quickly. Avoid trying to be a perfectionist.
    * Troubleshooting and debugging mistakes thoroughly to find a solution is important for learning.
-   * Type the code out until you feel comfortable enough to copy paste. Practice makes perfect.
+   * Type the code out until you feel comfortable enough to copy and paste. Practice makes perfect.
    * You are essentially learning how to learn on the first go around.  
    * Be very specific in your questions and always research before asking.
    * Write easy to read code and use proper indentation. 
@@ -44,7 +44,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
 
   ##### EASY TO USE 
    * Focus on programming concepts versus learning syntax.
-   * User friendly documentation and installation.
+   * User-friendly documentation and installation.
    * Developers contribute religiously to community by creating Python libraries.
    
    **[Python Ebook](https://greenteapress.com/wp/think-python-2e/)** <br />
