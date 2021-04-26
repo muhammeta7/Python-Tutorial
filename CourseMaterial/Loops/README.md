@@ -1,3 +1,5 @@
+# Loops
+
 ### For Loops
 * Works by iterating over some set of values.
 * Assigns each of the values one by one, to one or more variables.
@@ -98,3 +100,12 @@ for i in range(1, 13):
   the current iteration of the loop and moves the control back to the top of the loop. 
    
 *Note: You generally want to avoid using these because there are more efficient ways to produce the same outcomes using Python*
+
+### While Loops
+As long as a certain boolean condition is met(True or False), a 'while loop' is a good way to iterate over a sequence. 
+Example: while True loop continues and exits when it becomes False is a situation to use a `while` loop.
+
+**[Examples](https://www.tutorialspoint.com/python/python_while_loop.htm)**
+
+
+**[More examples and practice](https://www.learnpython.org/en/Loops)**
