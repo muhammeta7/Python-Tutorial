@@ -39,7 +39,6 @@ To get the same effect as C for loops, you can iterate over a **range** of value
 for i in range(1,4):
 	print("i is now {}".format(i))
 ```
-Result
 ```
 i is now 1
 i is now 2
@@ -50,7 +49,6 @@ If you do not provide a start value it will default to 0.
 for i in range(4):
     print(i)
 ```
-Result
 ```
 0
 1
@@ -75,7 +73,6 @@ You can also do a negative step with the same format start, end, and step value.
 for i in range(10, 0, -2):
     print(i)
 ````
-Result
 ```
 10
 8
@@ -91,7 +88,24 @@ for i in range(1, 13):
 	for j in range(1, 13):
 		print("{0} times {1} is {2}".format(j, i, i * j))
 ```
-
+```
+1 times 1 is 1
+1 times 2 is 2
+1 times 3 is 3
+--------------------
+2 times 1 is 2
+2 times 2 is 4
+2 times 3 is 6
+--------------------
+3 times 1 is 3
+3 times 2 is 6
+3 times 3 is 9
+--------------------
+4 times 1 is 4
+4 times 2 is 8
+4 times 3 is 12
+--------------------
+```
 # Continue and Break
 1. **break:** statement in Python terminates the current loop and resumes execution at the next statement, 
   just like the traditional break found in C. The most common use for break is when some external condition is triggered requiring a hasty exit from a loop. 
