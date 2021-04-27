@@ -19,7 +19,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
    * Get ready to be a master at Google. No need to memorize everything.   
    * Accept and embrace failure quickly. Avoid trying to be a perfectionist.
    * Troubleshooting and debugging mistakes thoroughly to find a solution is important for learning.
-   * Type the code out until you feel comfortable enough to copy paste. Practice makes perfect.
+   * Type the code out until you feel comfortable enough to copy and paste. Practice makes perfect.
    * You are essentially learning how to learn on the first go around.  
    * Be very specific in your questions and always research before asking.
    * Write easy to read code and use proper indentation. 
@@ -44,7 +44,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
 
   ##### EASY TO USE 
    * Focus on programming concepts versus learning syntax.
-   * User friendly documentation and installation.
+   * User-friendly documentation and installation.
    * Developers contribute religiously to community by creating Python libraries.
    
    **[Python Ebook](https://greenteapress.com/wp/think-python-2e/)** <br />
@@ -201,40 +201,7 @@ This repo is to document & create a tutorial to learn **Python**. Below is a lis
             <li>WILL NOT be covered in this tutorial.</li>
         </ul>
       </details>
-        
-   * <details>
-        <summary><b>iterator</b></summary>
-      </details>
-    
-   * <details>
-        <summary><b>sequence</b>(also iterators)</summary>
-        <h5>str type</h5>
-        <ul>
-            <li>Strings are a sequence of characters, and a derived data type.</li>
-            <li>Immutable: Once they are defined, they cannot be changed. </li>
-            <li>Built-in Python methods such as `replace()`, `join()`,`split()`, etc.</li>
-        </ul>
-        <p><i>String Operators</i></p>
-            <li><b>+</b> is String Concatenation</li>
-            <li><b>**</b> is Repetition</li> 
-      </details>
-  
-   * <details>
-        <summary><b>mapping</b></summary>
-      </details>
-    
-   * <details>
-        <summary><b>file</b></summary>
-      </details>
-    
-   * <details>
-        <summary><b>class</b></summary>
-      </details>
-       
-   * <details>
-        <summary><b>exception</b></summary>
-      </details>
-     
+
   **[TOC](#toc)**             
 ***
 ## Authors
