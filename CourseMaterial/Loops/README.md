@@ -84,8 +84,8 @@ for i in range(10, 0, -2):
 ### Nested Loops
 Nesting a for loop withing another for loop is a powerful way to process data and occurs regularly.
 ```python
-for i in range(1, 13):
-	for j in range(1, 13):
+for i in range(1, 5):
+	for j in range(1, 4):
 		print("{0} times {1} is {2}".format(j, i, i * j))
 ```
 ```
@@ -116,8 +116,25 @@ for i in range(1, 13):
 *Note: You generally want to avoid using these because there are more efficient ways to produce the same outcomes using Python*
 
 ### While Loops
-As long as a certain boolean condition is met(True or False), a 'while loop' is a good way to iterate over a sequence. 
-Example: while True loop continues and exits when it becomes False is a situation to use a `while` loop.
+As long as a certain boolean condition is met(True or False), a 'while loop' is a good way to iterate over a sequence. <br />
+As long as condition is met the loop will be executed. If the condition is no longer met then the loop will terminate.
+
+
+```python
+count = 0
+while (count < 4):
+   print('The count is: ', count)
+   count = count + 1
+
+print('Good bye!')
+```
+```
+The count is: 0
+The count is: 1
+The count is: 2
+The count is: 3
+Good bye!
+```
 
 **[Examples](https://www.tutorialspoint.com/python/python_while_loop.htm)**
 
